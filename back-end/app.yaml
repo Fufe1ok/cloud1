@@ -1,0 +1,7 @@
+runtime: nodejs10
+
+env_variables:
+  DB_NAME: "main"
+  USERNAME: "nazar"
+  PASSWORD: "veresveres"
+  CLOUD_SQL_CONNECTION_NAME: "ngorokhivskiy-backend:europe-west6:ngorokhivskiy-db"
